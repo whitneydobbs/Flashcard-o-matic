@@ -41,3 +41,5 @@ This is where the user gets to study. The first box shown is the front side of t
 ### Built with:
 
 - [React app](https://github.com/facebook/create-react-app)
+
+- Designed using [Bootstrap 4](https://getbootstrap.com/)
