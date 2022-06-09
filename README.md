@@ -38,4 +38,6 @@ This is where the user gets to study. The first box shown is the front side of t
 
 ## Technology
 
+### Built with:
 
+- [React app](https://github.com/facebook/create-react-app)
