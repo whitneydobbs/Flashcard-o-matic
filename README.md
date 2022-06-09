@@ -20,6 +20,10 @@ Flashcard-o-matic is an app for users to create flashcards for studying in a vir
 
 ![unnamed2](https://user-images.githubusercontent.com/100054403/172914624-e3617a38-c60a-47a3-a3b0-48eb6cbb8b69.png)
 
+### Add card
+
+![Screenshot 2022-06-09 140726](https://user-images.githubusercontent.com/100054403/172915162-ee5cf58f-c366-4de8-b312-be354e84a28e.png)
+
 ### Deck page
 
 ![unnamed4](https://user-images.githubusercontent.com/100054403/172914727-43bc50e5-b218-4608-81a5-b6b77d8b0807.png)
