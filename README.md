@@ -4,6 +4,8 @@
 
 Flashcard-o-matic is an app for users to create flashcards for studying in a virtual setting.
 
+---
+
 ## Screenshots
 
 ---
@@ -37,3 +39,9 @@ You are navigated back to thew deck's page after each flashcard is created. You 
 This is where the user gets to study. The first box shown is the front side of the flashcard, and selecting flip shows the back side. Next moves on to the next card.
 
 ![unnamed3](https://user-images.githubusercontent.com/100054403/172914785-64da9b26-66ea-4c2b-bca7-ea0773352799.png)
+
+---
+
+## Technology
+
+---
