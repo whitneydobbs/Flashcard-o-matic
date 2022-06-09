@@ -1,14 +1,9 @@
 # Flashcard-o-matic 
 
---
-
 Flashcard-o-matic is an app for users to create flashcards for studying in a virtual setting.
 
---
 
 ## Screenshots
-
---
 
 ### Home page
 
@@ -40,8 +35,7 @@ This is where the user gets to study. The first box shown is the front side of t
 
 ![unnamed3](https://user-images.githubusercontent.com/100054403/172914785-64da9b26-66ea-4c2b-bca7-ea0773352799.png)
 
----
 
 ## Technology
 
----
+
